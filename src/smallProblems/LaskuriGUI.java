@@ -77,6 +77,7 @@ public class LaskuriGUI extends Frame {
         // or simply "new LaskuriGUI;" for an anonymous instance
     }
     
+    
     // Define an inner class to handle the "Count" button-click
     private class BtnCountListener implements ActionListener {
        // ActionEvent handler - Called back upon button-click.
