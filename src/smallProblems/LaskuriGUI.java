@@ -1,5 +1,5 @@
 /**
- * Counter with Java GUI
+ * Counter with Java AWT GUI
  * Source:
  * https://www3.ntu.edu.sg/home/ehchua/programming/java/j4a_gui.html
  */
